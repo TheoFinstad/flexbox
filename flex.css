@@ -1,0 +1,20 @@
+.container1{
+    display: flex;
+    justify-content: flex-end;
+    background-color: blue; 
+    flex-direction: row;
+    color: white;
+    text-align: center;
+}
+.Home{
+    padding: 20px;
+}
+.About{
+    padding: 20px;
+}
+.Product{
+    padding: 20px;
+}
+.Contact{
+    padding: 20px;
+}

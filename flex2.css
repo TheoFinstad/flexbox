@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    color: black;
+    border-bottom: 1px solid black;
+    justify-content: flex-start;
+}
+.home{
+    padding: 20px;
+}
+.blog{
+    padding: 20px;
+}
+.work{
+    padding: 20px;
+}
+.resources{
+    padding: 20px;
+}
+.meta{
+    padding: 20px;
+}
+.home:hover{
+    background-color: green;
+}
+.blog:hover{
+    background-color: green;
+}
+.work:hover{
+    background-color: green;
+}
+.resources:hover{
+    background-color: green;
+}
+.meta:hover{
+    background-color: green;
+}
